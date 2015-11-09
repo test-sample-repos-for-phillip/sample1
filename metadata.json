@@ -1,8 +1,8 @@
 {
-    concepts:['web'],
-    lang:'c#',
-    author:'cartermp',
-    lastUpdated:'7/11/2015',
-    title:'WebSample',
-    description:'Hey it does some web stuff.'
+    "concepts":["web"],
+    "lang":"c#,
+    "author":"cartermp",
+    "lastUpdated":"7/11/2015",
+    "title":"WebSample",
+    "description":"Hey it does some web stuff."
 }
