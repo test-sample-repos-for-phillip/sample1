@@ -1,6 +1,6 @@
 {
     "concepts":["http", "networking"],
-    "lang":"c#",
+    "lang":"C#",
     "author":"cartermp",
     "title":"Simple HTTP Server",
     "description":"Showcases how to implement efficient networking over HTTP."
