@@ -2,7 +2,6 @@
     "concepts":["web"],
     "lang":"c#",
     "author":"cartermp",
-    "lastUpdated":"7/11/2015",
-    "title":"WebSample",
+    "title":"Web Sample for .NET Core",
     "description":"Hey it does some web stuff."
 }
