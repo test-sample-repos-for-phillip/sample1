@@ -3,5 +3,5 @@
     "lang":"c#",
     "author":"cartermp",
     "title":"Web Sample for .NET Core",
-    "description":"Does web stuff using {tech} technology."
+    "description":"Does web stuff using the MVC pattern and {tech} technology."
 }
