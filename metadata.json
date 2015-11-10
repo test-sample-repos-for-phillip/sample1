@@ -3,5 +3,5 @@
     "lang":"c#",
     "author":"cartermp",
     "title":"Web Sample for .NET Core",
-    "description":"Hey it does some web stuff."
+    "description":"Hey it does some web stuff.  Uses some async probably, and teaches ASP.NET 5."
 }
