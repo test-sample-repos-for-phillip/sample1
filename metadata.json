@@ -1,7 +1,7 @@
 {
-    "concepts":["web"],
+    "concepts":["http", "networking"],
     "lang":"c#",
     "author":"cartermp",
-    "title":"Web Sample for .NET Core",
-    "description":"Does web stuff using the MVC pattern and {tech} technology."
+    "title":"Simple HTTP Server",
+    "description":"Showcases how to implement efficient networking over HTTP."
 }
